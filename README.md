@@ -7,6 +7,6 @@ El objetivo general de este proyecto es desarrollar un modelo predictivo robusto
 ## DATASET INFO
 El dataset es Global Terrorism Database (GTD). El dataset contempla muchas de las características que han tenido 180000 ataques terroristas en una franja temporal de 1970 hasta 2017.
 URL: https://www.kaggle.com/datasets/START-UMD/gtd
-##VIDEO YOUTUBE
+## VIDEO YOUTUBE
 
 
